@@ -1,0 +1,13 @@
+JM-FrontierDeputy
+Copyright © 2026 JM Modifications. All rights reserved.
+
+This source code and its compiled output may not be redistributed, sold,
+relicensed, uploaded, or incorporated into another project without prior
+written permission from JM Modifications.
+
+Third-party dependencies remain subject to their respective licenses.
+JM-FrontierDeputy does not include Rockstar Games assets or ScriptHook runtime
+binaries.
+
+Red Dead Redemption 2 and related names are trademarks of Rockstar Games.
+This project is not affiliated with or endorsed by Rockstar Games.

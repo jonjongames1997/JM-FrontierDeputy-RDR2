@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "stations": [
+    {
+      "id": "VALENTINE",
+      "name": "Valentine Sheriff's Office",
+      "region": "HEARTLANDS",
+      "x": -276.24,
+      "y": 805.06,
+      "z": 119.38,
+      "jailX": -276.80,
+      "jailY": 808.20,
+      "jailZ": 119.38
+    },
+    {
+      "id": "RHODES",
+      "name": "Rhodes Sheriff's Office",
+      "region": "SCARLETT_MEADOWS",
+      "x": 1359.69,
+      "y": -1301.98,
+      "z": 77.77,
+      "jailX": 1357.20,
+      "jailY": -1305.30,
+      "jailZ": 77.72
+    },
+    {
+      "id": "SAINT_DENIS",
+      "name": "Saint Denis Police Department",
+      "region": "BAYOU_NWA",
+      "x": 2512.37,
+      "y": -1308.24,
+      "z": 48.95,
+      "jailX": 2508.60,
+      "jailY": -1306.40,
+      "jailZ": 48.95
+    },
+    {
+      "id": "BLACKWATER",
+      "name": "Blackwater Sheriff's Office",
+      "region": "GREAT_PLAINS",
+      "x": -757.27,
+      "y": -1269.54,
+      "z": 44.04,
+      "jailX": -761.10,
+      "jailY": -1268.20,
+      "jailZ": 44.02
+    }
+  ],
+  "scenes": [
+    {
+      "id": "VAL_SALOON_01",
+      "type": "SaloonDisturbance",
+      "region": "HEARTLANDS",
+      "name": "Smithfield's Saloon",
+      "x": -308.12,
+      "y": 806.18,
+      "z": 118.98,
+      "heading": 190.0
+    },
+    {
+      "id": "RHD_SALOON_01",
+      "type": "SaloonDisturbance",
+      "region": "SCARLETT_MEADOWS",
+      "name": "Rhodes Parlour House",
+      "x": 1340.85,
+      "y": -1374.55,
+      "z": 80.48,
+      "heading": 90.0
+    },
+    {
+      "id": "SD_SALOON_01",
+      "type": "SaloonDisturbance",
+      "region": "BAYOU_NWA",
+      "name": "Saint Denis Saloon",
+      "x": 2638.56,
+      "y": -1224.30,
+      "z": 53.38,
+      "heading": 5.0
+    },
+    {
+      "id": "BLW_SALOON_01",
+      "type": "SaloonDisturbance",
+      "region": "GREAT_PLAINS",
+      "name": "Blackwater Saloon",
+      "x": -817.15,
+      "y": -1314.35,
+      "z": 43.68,
+      "heading": 270.0
+    },
+    {
+      "id": "VAL_ROAD_01",
+      "type": "RoadsideRobbery",
+      "region": "HEARTLANDS",
+      "name": "road west of Valentine",
+      "x": -430.30,
+      "y": 693.00,
+      "z": 114.20,
+      "heading": 65.0
+    },
+    {
+      "id": "RHD_ROAD_01",
+      "type": "RoadsideRobbery",
+      "region": "SCARLETT_MEADOWS",
+      "name": "road north of Rhodes",
+      "x": 1493.67,
+      "y": -1008.086,
+      "z": 50.10,
+      "heading": 162.35
+    },
+    {
+      "id": "SD_ROAD_01",
+      "type": "RoadsideRobbery",
+      "region": "BAYOU_NWA",
+      "name": "road outside Saint Denis",
+      "x": 2325.50,
+      "y": -1241.40,
+      "z": 46.70,
+      "heading": 120.0
+    },
+    {
+      "id": "BLW_ROAD_01",
+      "type": "RoadsideRobbery",
+      "region": "GREAT_PLAINS",
+      "name": "road west of Blackwater",
+      "x": -997.60,
+      "y": -1205.70,
+      "z": 59.10,
+      "heading": 290.0
+    },
+    {
+      "id": "VAL_OUTLAW_01",
+      "type": "WantedOutlaw",
+      "region": "HEARTLANDS",
+      "name": "camp north of Valentine",
+      "x": -571.60,
+      "y": 1047.30,
+      "z": 88.70,
+      "heading": 145.0
+    },
+    {
+      "id": "RHD_OUTLAW_01",
+      "type": "WantedOutlaw",
+      "region": "SCARLETT_MEADOWS",
+      "name": "woodland camp east of Rhodes",
+      "x": 1686.50,
+      "y": -856.20,
+      "z": 42.00,
+      "heading": 250.0
+    },
+    {
+      "id": "SD_OUTLAW_01",
+      "type": "WantedOutlaw",
+      "region": "BAYOU_NWA",
+      "name": "marsh camp outside Saint Denis",
+      "x": 2193.50,
+      "y": -626.40,
+      "z": 42.00,
+      "heading": 180.0
+    },
+    {
+      "id": "BLW_OUTLAW_01",
+      "type": "WantedOutlaw",
+      "region": "GREAT_PLAINS",
+      "name": "camp southwest of Blackwater",
+      "x": -1255.80,
+      "y": -1463.70,
+      "z": 83.20,
+      "heading": 25.0
+    }
+  ]
+}
