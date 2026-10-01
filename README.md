@@ -1,4 +1,4 @@
-# JM-FrontierDeputy v0.1.3
+# JM-FrontierDeputy
 
 JM-FrontierDeputy adds a configurable, procedural sheriff-deputy gameplay loop to **Red Dead Redemption 2 Story Mode**.
 
