@@ -1,3 +1,5 @@
+![license](https://img.shields.io/badge/license-MIT-green?style=flat&logo=github) ![Status](https://img.shields.io/badge/Status-Open%20Source-orange?style=flat) ![Game](https://img.shields.io/badge/Game-RDR%202-red?style=flat) ![Language](https://img.shields.io/badge/Language-C%23-blue?style=flat)
+
 # This Project is Open-Source!
 If you want to help improve and fix issues with the mod, make a fork of this repo, make your changes and make a pull request. Keep the JM-FrontierDeputy name in the mod when making changes and fixes.
 
