@@ -1,3 +1,6 @@
+# This Project is Open-Source!
+If you want to help improve and fix issues with the mod, make a fork of this repo, make your changes and make a pull request. Keep the JM-FrontierDeputy name in the mod when making changes and fixes.
+
 # JM-FrontierDeputy
 
 JM-FrontierDeputy adds a configurable, procedural sheriff-deputy gameplay loop to **Red Dead Redemption 2 Story Mode**.
