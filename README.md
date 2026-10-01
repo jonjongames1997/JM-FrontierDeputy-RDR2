@@ -76,18 +76,6 @@ Red Dead Redemption 2/
 
 Launch Story Mode, visit a configured sheriff office and use `Context / E` or `F10` to begin a shift.
 
-## Updating from v0.1.0–v0.1.2
-
-Copy the v0.1.3 archive into the folder containing `RDR2.exe` and allow it to
-replace `scripts/JM-FrontierDeputy.dll`. Your INI, locations, and deputy profile
-remain compatible.
-
-v0.1.0 could resolve its data directory as
-`scripts/scripts/JM-FrontierDeputy` under ScriptHookRDR2DotNet's child domain.
-After confirming v0.1.3 works, any files in that accidental directory may be
-moved to `scripts/JM-FrontierDeputy` and the extra `scripts/scripts` directory
-can be removed.
-
 ## Default controls
 
 | Control | Action |
@@ -137,17 +125,6 @@ Keep JSON syntax valid when editing `Locations.json`. Scene `type` values must b
 - There is no custom deputy uniform, badge, partner, evidence system or prisoner wagon yet.
 - Only one active suspect is managed by each v0.1.x callout.
 - The mod does not support Red Dead Online.
-
-## Source layout
-
-- `JM-FrontierDeputy.sln` — Visual Studio 2022 solution with Debug/x64 and Release/x64 configurations
-- `src/JM.FrontierDeputy` — C# project targeting .NET Framework 4.8/x64
-- `config` — default user configuration and locations
-- `docs` — build guide, extension guide and runtime test plan
-- `release` — assembled installation layout after a successful build
-
-See [BUILD.md](docs/BUILD.md) and [VISUAL_STUDIO_2022.md](docs/VISUAL_STUDIO_2022.md)
-to compile, and [CALLOUT_AUTHORING.md](docs/CALLOUT_AUTHORING.md) to extend the system.
 
 ## Support checklist
 
